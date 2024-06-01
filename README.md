@@ -15,6 +15,8 @@ This project is a static Twitter clone built using HTML and Tailwind CSS. The de
 
 ## Screenshots
 
+![twitter](https://github.com/2001sudeep/Twitter-project-using-tailwind-css/assets/122736813/f81d19f8-aa7d-4057-9a75-a9f5c4b55f5b)
+
 
 ## Getting Started
 
@@ -23,7 +25,6 @@ Follow these instructions to set up the project on your local machine.
 ### Prerequisites
 
 - A web browser
-
 
 ## Acknowledgements
 
