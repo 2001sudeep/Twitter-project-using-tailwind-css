@@ -15,7 +15,6 @@ This project is a static Twitter clone built using HTML and Tailwind CSS. The de
 
 ## Screenshots
 
-![Downloads](downloads/twitter.png)
 
 ## Getting Started
 
